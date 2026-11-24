@@ -312,6 +312,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [tiktok-strategist](./plugins/tiktok-strategist)
 - [toprank](./plugins/toprank)
 - [twitter-engager](./plugins/twitter-engager)
+- [vadyu](https://github.com/crawde/mcp-vadyu) — Official Vadyu 2.0 MCP plugin (`https://vadyu.com/api/mcp`): preview any Shopify/DTC store URL with zero auth and render multi-cut 9:16, 4:5, 1:1, and 16:9 commercial AI video ads with 3D studio lighting and voiceover. MIT.
 - [wondelai-skills](https://github.com/wondelai/skills)
 - [agentkits-marketing](./plugins/agentkits-marketing)
 - [claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) - AI marketing skills: SEO Audit, Landing Page Review, Competitor Analysis, Ad Copy Writer, Lead Qualification. 5 free + premium via Cogny MCP
